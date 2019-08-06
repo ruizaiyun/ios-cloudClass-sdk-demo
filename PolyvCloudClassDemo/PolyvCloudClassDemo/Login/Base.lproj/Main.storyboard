@@ -34,7 +34,7 @@
                                                     <constraint firstAttribute="height" constant="39" id="3Cj-iS-Bk8"/>
                                                 </constraints>
                                             </imageView>
-                                            <label hidden="YES" opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="POLYV云课堂" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="YfT-JH-kyq">
+                                            <label hidden="YES" opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="睿在云 云课堂" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="YfT-JH-kyq">
                                                 <rect key="frame" x="80.5" y="138" width="214" height="30"/>
                                                 <constraints>
                                                     <constraint firstAttribute="width" relation="greaterThanOrEqual" constant="214" id="pwP-tP-Vvy"/>
@@ -207,8 +207,8 @@
                                                     <action selector="loginButtonClickAction:" destination="BYZ-38-t0r" eventType="touchUpInside" id="jo0-YP-Hrb"/>
                                                 </connections>
                                             </button>
-                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="© 2013-2019 广州易方信息科技股份有限公司 版权所有" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="ezz-dZ-a25">
-                                                <rect key="frame" x="36" y="625" width="303" height="17"/>
+                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="©2019 Ruizaiyun. All Right Reserved." textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="ezz-dZ-a25">
+                                                <rect key="frame" x="82.5" y="625" width="210" height="17"/>
                                                 <constraints>
                                                     <constraint firstAttribute="height" constant="17" id="IWA-o3-9Tb"/>
                                                 </constraints>
@@ -300,6 +300,6 @@
     </scenes>
     <resources>
         <image name="plv_logo" width="210" height="39"/>
-        <image name="plv_logo.png" width="210" height="39"/>
+        <image name="plv_logo.png" width="319" height="36"/>
     </resources>
 </document>
